@@ -1,7 +1,25 @@
 # Lord of Mysteries — Anime → Web Novel Episode Guide (Volume 1: Clown)
 
-This is a free fan-made guide designed to be read **after watching each anime episode**.
-It shows what the anime skips/compresses and which novel chapters are worth reading for missing context.
+This guide is made for **anime-only viewers** of *Lord of Mysteries* who want to:
+- Understand what the anime skips or compresses
+- Know *which chapters actually matter*
+- Avoid rereading the entire novel blindly
+- Appreciate the story more deeply
+
+## What this guide is
+- Episode-by-episode breakdown
+- Clear labels:
+  - ✅ READ (important missing information)
+  - 🔁 REFERENCE (timeline / comparison)
+  - ⏳ NOT ADAPTED YET
+- Focused only on **Volume 1: Clown**
+
+## What this guide is NOT
+- Not a replacement for the novel
+- Not monetized
+- Not affiliated with the author or publishers
+
+If this guide helps you, **please consider reading the full web novel and supporting the author**.
 
 ## Download
 - **PDF:** (click the PDF file in this repo)
